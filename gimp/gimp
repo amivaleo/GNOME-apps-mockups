@@ -1,0 +1,40 @@
+Transform
+
+----
+
+[Hamburger MENU]
+Show... -> [Layer Boundary, Guides, Grid, Rulers, Sample Points]
+Snap to... -> [Guides, Grid, Canvas Edges, Active Path]
+
+[F] Tool options
+[X] Device status
+
+[F] Layers
+[?] channels
+[?] paths
+[?] colourmap
+[?] histogram
+[?] selection editor -> tool options
+[F] navigation
+[F] undo history
+[X] pointer
+[?] sample points
+
+X colours
+? brushes
+? paint dynamics
+? patterns
+? gradients
+? palettes
+X fonts
+? tool presets
+buffers
+
+[X] images
+[X] document history
+X templates
+X error console
+
+
+in preferences:
+grid configuration, units, modules,

@@ -1,0 +1,111 @@
+Executable file selected:
+┌─────────────────────────┐
+│  Execute                │
+│   ───────────────────   │
+│  [  ✂   |   ✂     |  ✂    ]  │
+│  Rename…                │
+│   ───────────────────   │
+│  Compress               │
+│  Move to Trash Bin    ⌫ │
+│   ───────────────────   │
+│  Share               ▶  │ > Share_submenu
+│   ───────────────────   │
+│  Properties      Ctrl+I │
+└─────────────────────────┘
+
+
+Folder selected:
+┌─────────────────────────┐
+│  Open            ↵ | ▶  │ > Open_folder_submenu
+│   ───────────────────   │
+│ [  ✂   |   ✂   |   ✂  ] │
+│  Rename…                │
+│   ───────────────────   │
+│  Compress               │
+│  Move to Trash Bin    ⌫ │
+│   ───────────────────   │
+│  Share               ▶  │ > Share_submenu
+│   ───────────────────   │
+│  Properties      Ctrl+I │
+└─────────────────────────┘
+
+
+Single document selected:
+┌─────────────────────────┐ 
+│  Open with A     ↵ | ▶  │ > Open_with_submenu
+│   ───────────────────   │
+│ [  ✂   |   ✂   |   ✂  ] │
+│  Rename…                │
+│   ───────────────────   │
+│  Compress               │
+│  Move to Trash Bin    ⌫ │
+│   ───────────────────   │
+│  Share               ▶  │ > Share_submenu
+│   ───────────────────   │
+│  Properties      Ctrl+I │
+└─────────────────────────┘
+
+
+Nothing selected:
+┌─────────────────────────┐
+│  New Folder      Ctrl+N │
+│  New File            ▶  │ > Models_submenu
+│   ───────────────────   │
+│  Select All      Ctrl+A │
+│  Recover Files…         │
+│   ───────────────────   │
+│  Properties      Ctrl+I │
+└─────────────────────────┘
+
+
+Several files/folders selected:
+┌─────────────────────────────────┐
+│  Create forlder from selection  │
+│   ───────────────────────────   │
+│ [    ✂    |    ✂    |    ✂    ] │
+│  Rename…                        │
+│   ───────────────────────────   │
+│  Compress                       │
+│  Move to Trash Bin            ⌫ │
+│   ───────────────────────────   │
+│  Share                       ▶  │ > Share_submenu
+│   ───────────────────────────   │
+│  Properties              Ctrl+I │
+└─────────────────────────────────┘
+
+
+Open_folder_submenu
+┌────────────────────┐
+│  In a New Tab      │
+│  In a New Window   │
+└────────────────────┘
+
+
+Open_with_submenu
+┌───────────────────────┐
+│  Text Editor          │
+│  LibreOffice Writer   │
+│   ─────────────────   │
+│  Select Application…  │
+└───────────────────────┘
+
+
+Share_submenu
+┌─────────────────────────┐
+│  Create Link…    Ctrl+M │
+│  Bluetooth              │
+│  Local Network          │
+│  Email                  │
+│  Chat                   │
+│  Mega                   │
+│  Dropbox                │
+│  Backup                 │
+└─────────────────────────┘
+
+
+Model_submenu
+┌─────────────┐
+│  Text File  │
+│  A File     │
+│  A File     │
+└─────────────┘
